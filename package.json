@@ -1,0 +1,41 @@
+{
+  "name": "telegram-summarize-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot to summarize conversations in a tag cloud",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "resume",
+    "tags",
+    "tag",
+    "tagcloud",
+    "cloud",
+    "node.js",
+    "d3",
+    "summarize",
+    "api"
+  ],
+  "author": "koalazak <zak.tux@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "*",
+    "d3": "^3.5.10",
+    "d3-cloud": "^1.2.1",
+    "mongojs": "^2.0.0",
+    "node-telegram-bot-api": "*",
+    "jsdom": "3.1.2",
+    "svg2png": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koalazak/telegram-summarize-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koalazak/telegram-summarize-bot/issues"
+  },
+  "homepage": "https://github.com/koalazak/telegram-summarize-bot"
+}
