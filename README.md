@@ -2,6 +2,8 @@
 
 A bot to summarize conversations in a tag cloud
 
+![](https://raw.githubusercontent.com/koalazak/telegram-summarize-bot/master/screenshot.png)
+
 ## Install
 
 ```bash
